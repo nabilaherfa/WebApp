@@ -1,0 +1,110 @@
+.header-layanan {
+    color: #FFA500;
+    padding: 5px;
+    margin-top: 58px;
+    font-size: 67px;
+    text-align: left;
+    font: "Poppins", 'normal';
+    position: relative;
+}
+
+.title-layanan{
+    font-family: Inter;
+    font-size: 50px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 58px;
+    color: black;
+    margin-bottom: 47px;
+}
+
+.content-layanan{
+    font: "inter";
+    font-size: 20px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 22px;
+    color: black;
+    margin-bottom: 250px;
+}
+
+.carousel-layanan{
+    background-color: #254E71;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+
+@media screen and (max-width: 1100px) {
+    .title-layanan{
+        font-family: Inter;
+        font-size: 40px;
+        text-align: center;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 50px;
+        color: black;
+        margin-bottom: 5px;
+    }
+    
+    .content-layanan{
+        font: "inter";
+        font-size: 16px;
+        text-align: left;
+        font-style: normal;
+        font-weight: normal;
+        line-height: 18px;
+        color: black;
+        margin-bottom: 105px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .title-layanan{
+        font-family: Inter;
+        font-size: 40px;
+        text-align: center;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 50px;
+        color: black;
+        margin-bottom: 10px;
+    }
+    
+    .content-layanan{
+        font: "inter";
+        font-size: 16px;
+        text-align: left;
+        font-style: normal;
+        font-weight: normal;
+        line-height: 18px;
+        color: black;
+        margin-bottom: 100px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .title-layanan{
+        font-family: Inter;
+        font-size: 20px;
+        text-align: center;
+        font-style: normal;
+        font-weight: 200;
+        line-height: 40px;
+        color: black;
+        margin-bottom: 2px;
+    }
+    
+    .content-layanan{
+        font: "inter";
+        font-size: 9px;
+        text-align: left;
+        font-style: normal;
+        font-weight: normal;
+        line-height: 9px;
+        color: black;
+        margin-bottom: 20px;
+    }
+}

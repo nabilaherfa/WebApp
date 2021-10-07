@@ -1,0 +1,52 @@
+.logo_ocademy {
+	padding-left: 30px;
+}
+
+.Navbar {
+	background-color: white;
+	opacity: 0.83;
+	padding: 0;
+}
+
+.logo_ocademy {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.Navbar .nav-link-home,
+.nav-link-partner,
+.nav-link-article,
+.nav-link-career{
+	color: #323232 !important;
+	font-size: 20px;
+	font-family: 'Lucida Bright', serif;
+	font-weight: 500;
+	padding-right: 50px;
+	transition-timing-function: 1.5s ease-in forward;
+	transition: 0.5s;
+}
+
+.nav-link-home:hover {
+  background-color: #FFAC1C;
+
+}
+
+.nav-link-partner:hover {
+  background-color: #FFAC1C;
+
+}
+
+.nav-link-article:hover {
+  background-color: #FFAC1C;
+
+}
+
+.nav-link-career:hover {
+  background-color: #FFAC1C;
+
+}
+
+.header-link {
+	margin-right: 100px;
+}

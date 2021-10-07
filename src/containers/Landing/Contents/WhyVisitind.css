@@ -1,0 +1,53 @@
+.title-whyvisitind {
+	color: #FFA500;
+}
+
+.content-logo {
+	object-fit: cover;
+	width: 150px;
+	height: 150px;
+}
+
+.destinasi .card {
+	border: none;
+}
+
+.icon-news,
+.icon-logo {
+	object-fit: contain;
+}
+
+.icon-logo:nth-child(1) {
+	margin: 0 !important;
+}
+
+.icon-news {
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+.title-icon {
+	color: #1a1a1a;
+	font-size: 24px;
+	font-weight: 600;
+	line-height: 29.05px;
+	text-align: center;
+}
+
+.subtitle-icon {
+	color: #1a1a1a;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.78px;
+}
+
+.subtitle-icon-logo {
+	color: #434343;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 24.2px;
+}
+
+.visitind-p {
+	margin-top: 5.5rem !important;
+}

@@ -1,0 +1,83 @@
+.why {
+	font-family: 'inter';
+	width: 100%;
+	max-width: 1440px;
+	padding: 0.5rem 0;
+}
+
+.text1 {
+	font-size: 36px;
+	font-weight: 600;
+}
+
+.content-logo {
+	object-fit: cover;
+	width: 150px;
+	height: 150px;
+}
+
+.destinasi .card {
+	border: none;
+}
+
+.icon-news,
+.icon-logo {
+	object-fit: contain;
+	margin-bottom: 50px;
+}
+
+.card-title,
+.card-body {
+	padding: 0;
+	margin: 0;
+}
+
+.title-icon {
+	color: #FFA500;
+	font-size: 24px;
+	font-weight: 600;
+	line-height: 29.05px;
+	margin-bottom: 16px;
+}
+
+.subtitle-icon {
+	color: black;
+	font-size: 22px;
+	font-weight: 500;
+	line-height: 21.78px;
+}
+
+.subtitle-icon span {
+	color: #2f94b4;
+}
+
+.subtitle-icon-logo {
+	color: #434343;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 24.2px;
+}
+
+.title-partner {
+	color: #FFA500;
+	margin-top: 124px;
+	margin-bottom: 84px;
+	font-size: 36px;
+	font-weight: 600;
+}
+
+.con-have {
+	width: 1330px;
+	margin: 111px 0 120px 0;
+}
+
+.question {
+	color: #FFA500;
+	width: 390px;
+	margin: auto;
+	text-align: center;
+}
+
+.question p {
+	margin: 0;
+}

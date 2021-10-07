@@ -1,0 +1,45 @@
+.container-title-content1 {
+	padding-top: 50px;
+	color: #FFA500;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 48px;
+	text-align: center;
+}
+
+.tips2 .card {
+	border: none;
+	padding-bottom: 20px;
+}
+
+.icon-news,
+.icon {
+	object-fit: contain;
+}
+
+.card-title-info {
+	padding: 1.25rem !important;
+}
+
+.card-title-content1 {
+	color: #FFA500;
+	font-style: italic;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 29px;
+}
+
+.card-subtitle-content1 {
+	color: #000;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+}
+
+.buttondaftar{
+	text-align: center;
+	background-color: orange;
+}

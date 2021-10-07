@@ -1,0 +1,147 @@
+.text{
+    padding-top: 200px;
+    color: white;
+    padding-left: 200px;
+    height: 800px;
+}
+
+.text-carousel1{
+    text-align: left;
+    height: 500px;
+}
+
+.text-carousel1 .title-carousel1{
+    text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.2);
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 58px;
+}
+
+.text-carousel1 .subtitle-carousel1{
+    font-style: italic;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.text-carousel2{
+    text-align: left;
+    height: 500px;
+}
+
+.text-carousel2 .title-carousel2{
+    color: #494949;
+    text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.2);
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 58px;
+}
+
+.text-carousel2 .subtitle-carousel2{
+    color: #494949;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.text1-carousel2{
+    text-align: center;
+    height: 500px;
+}
+
+.text1-carousel2 .title1-carousel2{
+    color: #2A74B3;
+    text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.2);
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 58px;
+}
+
+.text1-carousel2 .subtitle1-carousel2{
+    color: #494949;
+    text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.2);
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 19px;
+}
+
+.text1-carousel2 .subtitle2-carousel2{
+    color: #727272;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.text2-carousel2{
+    text-align: left;
+    height: 500px;
+}
+
+.text2-carousel2 .title2-carousel3{
+    color: #494949;
+    text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.2);
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 58px;
+}
+
+.text2-carousel2 .subtitle2-carousel3{
+    color: #494949;
+    text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.2);
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 19px;
+}
+
+.text2-carousel2 .subtitle3-carousel3{
+    color: #494949;
+    font-style: italic;
+    font-size: 18px;
+    line-height: 19.36px;
+}
+
+.tombol-more{
+    width: 250px;
+    height: 74px;
+    font-size: 20px;
+    background-color: #2A74B3;
+    border-color: #2A74B3;
+    border-radius: 5px;
+    padding-top: 20px;
+}
+
+.tombol-more:hover{
+    background-color: #AFCDDE;
+    border-color: #AFCDDE;
+
+}
+
+.tombol-register{
+    width: 144px;
+    height: 37px;
+    background-color: #2A74B3;
+    border-color: #2A74B3;
+    border-radius: 5px;
+}
+
+.tombol-register:hover{
+    background-color: #AFCDDE;
+    border-color: #AFCDDE;
+}
+
+#imgg{
+    height: 100vh;
+}
+
+#kataa{
+    margin-top: 25vh;
+}
+
+#kataaa{
+    margin-top: 22vh;
+}
+
+.button2{
+    height: 50px;
+    width: 200px;
+}

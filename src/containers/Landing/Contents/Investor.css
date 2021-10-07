@@ -1,0 +1,26 @@
+.logo .card{
+    border:none;
+}
+
+.card-title-investor {
+    color: #FFA500;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+}
+
+.card-subtitle-investor {
+    color: rgb(25,25,25, 0.46);
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.button-selengkapnya{
+    background-color: #CC5500;
+    border-radius: 7px;
+    color: white;
+    border-color: #2A74B3;
+}

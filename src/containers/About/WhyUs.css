@@ -1,0 +1,51 @@
+.bg {
+    background-image: url("../../assets/BG.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-position: center center;
+}
+
+.header-why {
+    color: #FFA500;
+    margin-top: 63px;
+    font-size: 70px;
+    text-align: center;
+    font: "Poppins", normal;
+}
+
+.card-why {
+    background: rgba(255, 251, 251, 0.37);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    width: 300px;
+    height: 370px;
+    margin-top: 60px;
+}
+
+.img-why {
+    width: 100px;
+    height: 70px;
+    margin-top: 30px;
+}
+
+.judul-why {
+    margin-top: 30px;
+    font-size: 26px;
+    text-align: center;
+    font: "Inter", normal;
+}
+
+.content-why {
+    font-size: 19px;
+    text-align: center;
+    font: "Inter", normal;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.us-txt {
+    color: #244B6D;
+}

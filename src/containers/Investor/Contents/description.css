@@ -1,0 +1,53 @@
+.description {
+	font-family: 'inter';
+	margin: 100px auto;
+	max-width: 1440px;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+	min-height: 60vh;
+}
+.con {
+	font-size: 62px;
+	font-weight: 500;
+}
+
+.desc1 {
+	display: flex;
+	width: inherit;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 3.375rem;
+	flex-wrap: wrap;
+}
+
+.card {
+	box-sizing: border-box;
+	width: 600px;
+}
+
+.inves {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 703px;
+}
+
+.desctext1 {
+	font-size: 19px;
+	font-weight: 400;
+	width: 540px;
+	margin: auto;
+	padding: 0;
+}
+
+.card-body > p:nth-child(2) {
+	padding-top: 2.125rem;
+}
+
+.card-body > p:nth-child(3) {
+	padding-top: 1rem;
+}

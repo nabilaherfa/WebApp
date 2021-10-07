@@ -1,0 +1,46 @@
+.crd1 {
+	width: 353px;
+	border: 3px solid #254e71;
+	border-radius: 1rem;
+	padding-bottom: 1rem;
+	background-color: rgba(255, 255, 255, 0.3);
+	padding: 3rem;
+	position: absolute;
+	top: 35%;
+	left: 10%;
+	z-index: 2;
+}
+
+.pict {
+	width: 110px;
+	height: 88px;
+}
+
+.concard {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+.title-icon {
+	font-size: 2rem;
+	margin: 30px 0;
+}
+
+.subtitle-icon {
+	font-size: 1rem;
+	font-weight: 400;
+	text-align: center;
+}
+
+.btn-package {
+	position: absolute;
+	bottom: -5.5%;
+	left: 21%;
+	background-color: #254e71;
+	border: none;
+	padding: 1rem 3rem;
+	border-radius: 100px;
+}

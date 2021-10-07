@@ -1,0 +1,26 @@
+.content-title{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.content-subtitle{
+    font-size: 24px;
+    color: #a7a7a7;
+}
+
+.content-title1{
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.content-text{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.content-photo{
+    height: 399px;
+    /* width: 783px; */
+    margin-left: 15%;
+    width: 70%;
+}
